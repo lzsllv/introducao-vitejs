@@ -15,9 +15,10 @@ function Home() {
 
       <div className={styles.containerLista}>
         <h1>Atividades</h1>
-
+        <Link to="/atividade/1">Atividade 1</Link>
+        <Link to="/atividade/2">Atividade 2</Link>
+        <Link to="/atividade/4">Atividade 4 - Lista de compra</Link>
       </div>
-
 
     </div>
 
